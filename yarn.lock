@@ -8559,10 +8559,10 @@ vue-loader@^15.9.2:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-router-prefetch@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/vue-router-prefetch/-/vue-router-prefetch-1.6.0.tgz#ef34228d6e122b4f6959da52c8dd448fe2a0057d"
-  integrity sha512-mLoh5on0GlO3ag0GWt+J8FkcalSAZJGJ/dNpA8PQ8X7pAoFht683FOJZlqdV7vXwKH7BjP+UfKcK09tHtNeDbw==
+vue-router-prefetch@^1.6.3:
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/vue-router-prefetch/-/vue-router-prefetch-1.6.3.tgz#258d42988057fb54a2a10e3a57fb80e7e175b02c"
+  integrity sha512-DR+DJG6kPaaHU06Wxk37rU2WbCVejDLEssJtkBTF7Q+7TnU5wp3CZWJWHwpkcFbEcYIyWsQlSEE5Ti2N1509Lw==
 
 vue-router@^3.3.4:
   version "3.3.4"
